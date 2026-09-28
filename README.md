@@ -1,1 +1,1 @@
-# scientific-computing-projects
+# Scientific Computing Projects 
